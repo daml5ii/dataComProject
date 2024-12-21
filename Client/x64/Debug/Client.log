@@ -1,0 +1,8 @@
+﻿  CMain.cpp
+F:\uni\4th year\PROJECTS\dataCom\New folder\Chat-Application-For-Sockect-Programming-master\Client\CMain.cpp(139,44): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+F:\uni\4th year\PROJECTS\dataCom\New folder\Chat-Application-For-Sockect-Programming-master\Client\CMain.cpp(145,44): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+F:\uni\4th year\PROJECTS\dataCom\New folder\Chat-Application-For-Sockect-Programming-master\Client\CMain.cpp(152,48): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+F:\uni\4th year\PROJECTS\dataCom\New folder\Chat-Application-For-Sockect-Programming-master\Client\CMain.cpp(162,48): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+F:\uni\4th year\PROJECTS\dataCom\New folder\Chat-Application-For-Sockect-Programming-master\Client\CMain.cpp(189,25): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+F:\uni\4th year\PROJECTS\dataCom\New folder\Chat-Application-For-Sockect-Programming-master\Client\CMain.cpp(113,1): warning C4172: returning address of local variable or temporary : sock
+  Client.vcxproj -> F:\uni\4th year\PROJECTS\dataCom\New folder\Chat-Application-For-Sockect-Programming-master\x64\Debug\Client.exe

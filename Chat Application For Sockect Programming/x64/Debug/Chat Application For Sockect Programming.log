@@ -1,0 +1,10 @@
+﻿  SMain.cpp
+F:\uni\4th year\PROJECTS\dataCom\New folder\Chat-Application-For-Sockect-Programming-master\Chat Application For Sockect Programming\SMain.cpp(64,43): warning C4244: '=': conversion from 'SOCKET' to 'long', possible loss of data
+F:\uni\4th year\PROJECTS\dataCom\New folder\Chat-Application-For-Sockect-Programming-master\Chat Application For Sockect Programming\SMain.cpp(112,37): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+F:\uni\4th year\PROJECTS\dataCom\New folder\Chat-Application-For-Sockect-Programming-master\Chat Application For Sockect Programming\SMain.cpp(115,33): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+F:\uni\4th year\PROJECTS\dataCom\New folder\Chat-Application-For-Sockect-Programming-master\Chat Application For Sockect Programming\SMain.cpp(118,36): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+F:\uni\4th year\PROJECTS\dataCom\New folder\Chat-Application-For-Sockect-Programming-master\Chat Application For Sockect Programming\SMain.cpp(136,58): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+F:\uni\4th year\PROJECTS\dataCom\New folder\Chat-Application-For-Sockect-Programming-master\Chat Application For Sockect Programming\SMain.cpp(252,59): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+F:\uni\4th year\PROJECTS\dataCom\New folder\Chat-Application-For-Sockect-Programming-master\Chat Application For Sockect Programming\SMain.cpp(263,59): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+F:\uni\4th year\PROJECTS\dataCom\New folder\Chat-Application-For-Sockect-Programming-master\Chat Application For Sockect Programming\SMain.cpp(210,1): warning C4172: returning address of local variable or temporary : sock
+  Chat Application For Sockect Programming.vcxproj -> F:\uni\4th year\PROJECTS\dataCom\New folder\Chat-Application-For-Sockect-Programming-master\x64\Debug\Server.exe
